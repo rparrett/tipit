@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TipActivity!</string>
+    <string name="app_name">Tip It</string>
+    <string name="minimum">Min</string>
+    <string name="maximum">Max</string>
+    <string name="bill_amount">Bill</string>
+
+</resources>
