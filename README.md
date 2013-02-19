@@ -1,4 +1,8 @@
 Tip It
 ======
 
-A tip calculator that produces totals with interesting digit sequences.
+Tip It is a tip calculator for Android devices that produces bill totals with interesting digit sequences.
+
+Screenshots
+===========
+![Screenshot](http://robparrett.com/static/tipit1.png)
