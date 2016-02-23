@@ -5,4 +5,4 @@ Tip It is a tip calculator for Android devices that produces bill totals with in
 
 Screenshots
 ===========
-![Screenshot](http://robparrett.com/static/tipit1.png)
+![Screenshot](http://robparrett.com/static/img/tipit1.png)
